@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Kiara
 
-<!--
-**kjasunas/kjasunas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bio: About Me
+I'm Kiara (she/her), a UI/UX student at ASU from Colorado.  I have had previous experience coding in C, Java, Python, HTML, CSS, and a few others.  I am a big fan of hiking, skiing, and swimming.  I am an avid reader (my favorite book is Ready Player One by Ernest Cline) and a board game fan (my favorite is Nyctophobia).  I am always looking for good book/board game suggestions!
 
-Here are some ideas to get you started:
+### Nerdy Facts
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Other Accounts
+[LinkedIn](https://www.linkedin.com/in/kiara-j-209125240/)
+[CodePen](https://codepen.io/kjasunas)
+
+<!--**kjasunas/kjasunas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
